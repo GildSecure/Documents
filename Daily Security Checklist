@@ -1,0 +1,74 @@
+Daily Security Checklist: Aligned with ISO 27001 and CMMC
+1. Monitor and Review
+
+Security logs: Review logs for unusual activity, unauthorized access attempts, or security alerts.
+Network traffic: Analyze network traffic patterns, bandwidth usage, and protocol distributions.
+Incident reports: Review and follow up on open incidents, updating status as needed.
+Vulnerabilities: Prioritize and remediate critical vulnerabilities.
+2. Updates and Patches
+
+System updates: Ensure OS and software are up-to-date.
+Firmware updates: Review and apply firmware updates for network devices, servers, and IoT devices.
+3. Access Management
+
+Account review: Identify and disable inactive or compromised accounts.
+Permissions: Verify appropriate permissions and audit privileged access.
+Password policies: Enforce strong password policies and MFA where applicable.
+4. Incident Response
+
+Procedures: Review and update incident response procedures.
+Team readiness: Verify contact information and availability of resources.
+Lessons learned: Review past incidents for insights.
+5. Awareness and Training
+
+Continuous training: Provide regular security tips and training sessions.
+Phishing simulations: Conduct simulations to assess employee awareness.
+6. Risk Assessment
+
+Risk identification: Assess new business processes and technologies for potential risks.
+Risk mitigation: Review and update risk mitigation strategies.
+7. Backup and Recovery
+
+Data integrity: Verify backup integrity and accessibility.
+Disaster recovery: Review and update disaster recovery procedures.
+8. Compliance
+
+Deadlines: Monitor compliance deadlines and requirements.
+Documentation: Ensure documentation is up-to-date.
+Audits: Conduct regular internal audits.
+9. Vendor Management
+
+Vendor security: Review vendor security alerts and access.
+Policy updates: Ensure compliance with vendor security policies.
+10. Physical Security
+
+Access logs: Review physical access logs for anomalies.
+Security controls: Verify proper functioning of cameras, access cards, and other security measures.
+Secure areas: Ensure sensitive areas are adequately protected.
+11. Asset Management
+
+Inventory: Update asset inventory.
+Security controls: Verify security controls are applied to all assets.
+Unauthorized devices: Identify and address unauthorized devices on the network.
+12. Emerging Threats
+
+Threat intelligence: Review cybersecurity news and threat intelligence.
+Risk assessment: Assess potential impact and implement necessary controls.
+13. Supply Chain Risk Management (CMMC-specific)
+
+Vendor assessments: Conduct regular assessments of third-party vendors.
+Contractual requirements: Ensure contracts include appropriate security clauses.
+Monitoring: Monitor vendor performance and compliance.
+14. Continuous Monitoring (CMMC-specific)
+
+Security controls: Continuously monitor the effectiveness of security controls.
+Logging and monitoring: Implement robust logging and monitoring practices.
+Incident detection: Use advanced tools for early detection of security incidents.
+15. Configuration Management (CMMC-specific)
+
+Baseline configurations: Establish and maintain baseline configurations for systems and devices.
+Change management: Implement a formal change management process.
+Configuration auditing: Regularly audit system configurations.
+Notes and Observations
+
+Use this space to record significant findings, actions taken, or areas requiring further investigation.
